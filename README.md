@@ -6,6 +6,5 @@
   <li> pyautogui ----  pip install pyautogui</li>
   <li> pillow ----  pip install pillow</li>
 
-</ul
-
-  <img src="https://github.com/Aashishkumar123/django-screenshot/blob/main/media/myimg1235.png">
+</ul>
+<img src="https://github.com/Aashishkumar123/django-screenshot/blob/main/media/myimg1235.png">
