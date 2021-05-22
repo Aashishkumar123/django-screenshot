@@ -1,9 +1,9 @@
-from re import I
 from django.shortcuts import render
 import random
 import pyautogui
 from django.conf import settings
 from django.contrib import messages
+
 def index(request):
     if request.method == "POST":
         ss = pyautogui.screenshot()
