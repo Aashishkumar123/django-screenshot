@@ -7,4 +7,8 @@
   <li> pillow ----  pip install pillow</li>
 
 </ul>
+
+<br><br>
+
+<h1> Demo </h1>
 <img src="https://github.com/Aashishkumar123/django-screenshot/blob/main/media/myimg1235.png">
